@@ -16,16 +16,18 @@
   "author": "HubSpot",
   "license": "ISC",
   "dependencies": {
+    "@types/node-fetch": "^2.5.7",
     "bottleneck": "^2.19.5",
+    "crypto": "^1.0.1",
     "es6-promise": "^4.2.4",
     "form-data": "^2.5.0",
     "lodash.get": "^4.4.2",
     "lodash.merge": "^4.6.2",
     "node-fetch": "^2.6.0",
-    "@types/node-fetch": "^2.5.7",
     "url-parse": "^1.4.3"
   },
   "devDependencies": {
+    "@types/crypto-js": "^4.1.1",
     "@types/jasmine": "^3.6.2",
     "@types/lodash.get": "^4.4.7",
     "@types/lodash.merge": "^4.6.7",
